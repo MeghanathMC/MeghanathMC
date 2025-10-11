@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghanath Reddy M C</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghanathmc&label=Profile%20views&color=0e75b6&style=flat" alt="meghanathmc" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeghanathMC](https://github.com/MeghanathMC)
 
-- 💬 Ask me about **Web development, Programming, DSA,AWS**
+- 💬 Ask me about **Web development, Programming,System Design, DSA,AWS**
 
 - 📫 How to reach me **meghanathmc.24@gmail.com**
 
