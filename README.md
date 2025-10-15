@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghanathmc" alt="meghanathmc" /></a> </p>
 
-- 🔭 I’m currently working on **A Full Stack Project & experimenting on all the things**
+- 🔭 I’m currently working on **A Personalised AI learning Platfrom**
 
-- 🌱 I’m currently learning **Devops and Cloud Computing**
+- 🌱 I’m currently learning **System Design, Cloud & AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeghanathMC](https://github.com/MeghanathMC)
 
