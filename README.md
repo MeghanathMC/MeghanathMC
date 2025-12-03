@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Meghanath Reddy M C</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Product & Full Stack Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghanathmc&label=Profile%20views&color=0e75b6&style=flat" alt="meghanathmc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghanathmc" alt="meghanathmc" /></a> </p>
 
-- 🔭 I’m currently working on **A Personalised AI learning Platfrom**
-
-- 🌱 I’m currently learning **System Design, Cloud & AI Agents**
+- 🌱 I’m currently learning **AI Product, AI Agents, Work flow Automations, System Design, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeghanathMC](https://github.com/MeghanathMC)
 
-- 💬 Ask me about **Web development, Programming,System Design, DSA,AWS**
+- 💬 Ask me about **Web development, Programming, System Design, AWS(Basics) **
 
 - 📫 How to reach me **meghanathmc.24@gmail.com**
 
