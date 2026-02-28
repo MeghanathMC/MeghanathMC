@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeghanathMC](https://github.com/MeghanathMC)
 
-- 💬 Ask me about **Automations, Agents, Web development, Programming, System Design, AWS **
+- 💬 Ask me about **Automations, Agents, Web development, Programming, System Design, AWS**
 
 - 📫 How to reach me **meghanathmc.24@gmail.com**
 
